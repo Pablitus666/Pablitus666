@@ -3,7 +3,7 @@
   <img src="assets/Fondo.png" alt="Banner personalizado" />
 </p>
 
-<h1 align="center" style="font-size: 32px;">👋 ¡Hola, soy <strong>Pablitus666</strong>!</h1>
+<h1 align="center" style="font-size: 32px;">👋 ¡Hola, soy <strong>Pablitus</strong>!</h1>
 <h3 align="center"><em>Apasionado por el código, la tecnología, los desafíos técnicos y el aprendizaje constante.</em></h3>
 
 ---
