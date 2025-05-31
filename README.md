@@ -50,10 +50,13 @@ Apasionado por el código, la tecnología, los desafíos técnicos y el aprendiz
 ---
 
 <p align="center">
-  <p align="center">
-  <a href="https://github.com/Pablitus666"><img src="https://img.shields.io/badge/GitHub-Pablitus666-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/Pablitus666">
+    <img src="https://img.shields.io/badge/GitHub-Pablitus666-023047?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
-  <p align="center">
+
+<p align="center">
   🚀 *Gracias por visitar mi perfil. ¡Nos leemos en el código!*
 </p>
+
 
