@@ -1,8 +1,7 @@
 <!-- Fondo personalizado en GitHub no es soportado directamente, pero puedes usar banners y estilos oscuros -->
 <p align="center">
-  <img src="assets/Pablitus....png" banner.png" alt="Banner personalizado" />
+<img src="assets/Fondo.png" alt="Banner personalizado" />
 </p>
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h1 align="center">👋 ¡Hola, soy Pablitus666!</h1>
 <p align="center">
@@ -11,10 +10,8 @@ Apasionado por el código, la tecnología, los desafíos técnicos y el aprendiz
 
 ---
 
-## 🎨 Animación: Lluvia de Commits
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pablitus666/Pablitus666/main/assets/commit-rain.gif" alt="Lluvia de Commits" />
+   <img src="assets/Pablitus.png" banner.png" alt="Banner personalizado" />
 </p>
 
 ---
