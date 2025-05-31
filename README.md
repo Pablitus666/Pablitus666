@@ -1,6 +1,6 @@
 <!-- Fondo personalizado en GitHub no es soportado directamente, pero puedes usar banners y estilos oscuros -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pablitus666/Pablitus666/main/banner.png" alt="Banner personalizado" />
+  <img src="assets/Pablitus....png" banner.png" alt="Banner personalizado" />
 </p>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
