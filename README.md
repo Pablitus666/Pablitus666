@@ -1,17 +1,15 @@
-<!-- Fondo personalizado en GitHub no es soportado directamente, pero puedes usar banners y estilos oscuros -->
+<!-- Banner superior -->
 <p align="center">
-<img src="assets/Fondo.png" alt="Banner personalizado" />
+  <img src="assets/Fondo.png" alt="Banner personalizado" />
 </p>
 
-<h1 align="center">👋 ¡Hola, soy Pablitus666!</h1>
-<p align="center">
-Apasionado por el código, la tecnología, los desafíos técnicos y el aprendizaje constante. Bienvenido a mi espacio en GitHub.
-</p>
+<h1 align="center" style="font-size: 32px;">👋 ¡Hola, soy <strong>Pablitus666</strong>!</h1>
+<h3 align="center"><em>Apasionado por el código, la tecnología, los desafíos técnicos y el aprendizaje constante.</em></h3>
 
 ---
 
 <p align="center">
-   <img src="assets/Pablitus.png" banner.png" alt="Banner personalizado" />
+   <img src="assets/Pablitus.png" alt="Banner personalizado" />
 </p>
 
 ---
@@ -55,5 +53,3 @@ Apasionado por el código, la tecnología, los desafíos técnicos y el aprendiz
 <p align="center">
   🚀 *Gracias por visitar mi perfil. ¡Nos leemos en el código!*
 </p>
-
-
