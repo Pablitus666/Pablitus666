@@ -42,3 +42,8 @@
 </div>
 
 ###
+
+### 🐍 Snake animation
+
+![Snake animation](https://github.com/Pablitus666/Pablitus666/blob/output/dist/snake.svg)
+
