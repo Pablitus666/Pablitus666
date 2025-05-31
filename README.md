@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-   <img src="assets/Pablitus.png" alt="Banner personalizado" />
+   <img src="assets/Pablitux.png" alt="Banner personalizado" />
 </p>
 
 ---
