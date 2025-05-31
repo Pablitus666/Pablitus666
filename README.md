@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pablitus666/Pablitus666/main/banner.png" alt="Banner personalizado" />
 </p>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h1 align="center">👋 ¡Hola, soy Pablitus666!</h1>
 <p align="center">
