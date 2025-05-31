@@ -36,8 +36,7 @@ Apasionado por el código, la tecnología, los desafíos técnicos y el aprendiz
 </p>
 
 ---
-
-## 🌐 Redes Sociales
+## :link: &nbsp;Redes Sociales
 
 <p align="center">
   <a href="https://www.youtube.com/@Pablitus666"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
