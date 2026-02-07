@@ -1,15 +1,15 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="assets/Fondo.png" alt="Banner personalizado" />
+  <img src="https://raw.githubusercontent.com/Pablitus666/Pablitus666/main/assets/Fondo.png" alt="Banner personalizado" />
 </p>
 
-<h1 align="center" style="font-size: 32px;">👋 ¡Hola, soy <strong>Pablitus</strong>!</h1>
-<h3 align="center"><em>Apasionado por el código, la tecnología, los desafíos técnicos y el aprendizaje constante.</em></h3>
+<h1 align="center">👋 ¡Hola, soy <strong>Pablitus</strong>!</h1>
+<h3 align="center"><em>Apasionado por el código, la tecnología y el aprendizaje constante.</em></h3>
 
 ---
 
 <p align="center">
-   <img src="assets/Pablitux.png" alt="Banner personalizado" />
+  <img src="https://raw.githubusercontent.com/Pablitus666/Pablitus666/main/assets/Pablitux.png" alt="Avatar" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ## 🧰 Tecnologías que utilizo
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,git,github,vscode,linux&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
@@ -25,10 +25,11 @@
 ## 📊 Estadísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pablitus666&show_icons=true&theme=react&bg_color=023047&text_color=ffffff&icon_color=fb8500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pablitus666&show_icons=true&theme=react&cache_seconds=86400&hide_border=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pablitus666&theme=react&background=023047&currStreakLabel=fb8500&sideLabels=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=Pablitus666&theme=react&hide_border=true" />
 </p>
+
 
 ---
 ## :link: &nbsp;Redes Sociales
