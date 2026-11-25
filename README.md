@@ -16,9 +16,7 @@
 
 <p align="center">
   <em>Ideas into Digital Solutions.</em>
-</p>
-
-<p align="center">
+  &nbsp; | &nbsp;
   <a href="https://github.com/Pablitus666">
     <img src="https://img.shields.io/badge/GitHub-Pablitus666-023047?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -130,7 +128,7 @@ Estos son algunos de mis proyectos de desarrollo de software y herramientas digi
 
 <div align="justify">
 
-¿Tienes una idea, necesitas desarrollar un sitio web o buscas una solución de software personalizada? Estoy disponible para evaluar proyectos y desarrollar soluciones tecnológicas.
+¿Tienes una idea, necesitas desarrollar un sitio web o buscas una solución de software personalizada? Estoy disponible para evaluar proyectos y desarrollar soluciones tecnológicas adaptadas a tus necesidades.
 
 **Let's build something great together!**
 
@@ -140,8 +138,9 @@ Estos son algunos de mis proyectos de desarrollo de software y herramientas digi
   <a href="https://wa.me/59175123893">
     <img src="https://img.shields.io/badge/WhatsApp-+591%2075123893-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="mailto:pharmakoz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-pharmakoz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  &nbsp;
+  <a href="mailto:pablitus666@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-pablitus666%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
