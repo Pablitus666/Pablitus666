@@ -58,24 +58,81 @@ I'm passionate about building digital tools that solve real-world problems, simp
 
 <h2 align="center">🚀 Servicios | Services</h2>
 
-| Servicio | Descripción |
-|:---|:---|
-| 💻 Desarrollo de software | Aplicaciones y herramientas personalizadas. |
-| 🌐 Desarrollo web | Sitios web modernos y aplicaciones web. |
-| ⚙️ Automatización | Herramientas para optimizar tareas y procesos. |
-| 🤖 Soluciones tecnológicas | Integración de tecnologías y nuevas herramientas digitales. |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Servicio</th>
+      <th align="center">Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">💻 Desarrollo de software</td>
+      <td align="center">Aplicaciones y herramientas personalizadas.</td>
+    </tr>
+    <tr>
+      <td align="center">🌐 Desarrollo web</td>
+      <td align="center">Sitios web modernos y aplicaciones web.</td>
+    </tr>
+    <tr>
+      <td align="center">⚙️ Automatización</td>
+      <td align="center">Herramientas para optimizar tareas y procesos.</td>
+    </tr>
+    <tr>
+      <td align="center">🤖 Soluciones tecnológicas</td>
+      <td align="center">Integración de tecnologías y nuevas herramientas digitales.</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 align="center">🛠️ Proyectos | Projects</h2>
 
-| Proyecto | Descripción | Tecnología |
-|:---|:---|:---|
-| [Audio-Converter](https://github.com/Pablitus666/Audio-Converter) | Conversión de archivos de audio. | C# / .NET |
-| [Image_Converter](https://github.com/Pablitus666/Image_Converter) | Conversión de imágenes. | Python |
-| [Sleep---Alarm](https://github.com/Pablitus666/Sleep---Alarm) | Herramienta de alarma y temporizador. | C# / .NET |
-| [Info-RAM](https://github.com/Pablitus666/Info-RAM) | Información del uso de memoria RAM. | C# / .NET |
-| [ClearCacheIcons](https://github.com/Pablitus666/ClearCacheIcons) | Utilidad para limpiar la caché de iconos. | C# |
-| [Shutdown-Utility-for-Windows](https://github.com/Pablitus666/Shutdown-Utility-for-Windows) | Utilidad para administrar el apagado de Windows. | C# / WinForms |
-| [Camara-Gesell-Web](https://github.com/Pablitus666/Camara-Gesell-Web) | Proyecto web de Cámara Gesell. | JavaScript / PWA |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Proyecto</th>
+      <th align="center">Descripción</th>
+      <th align="center">Tecnología</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/Pablitus666/Audio-Converter">Audio-Converter</a></td>
+      <td align="center">Conversión de archivos de audio.</td>
+      <td align="center">C# / .NET</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Pablitus666/Image_Converter">Image_Converter</a></td>
+      <td align="center">Conversión de imágenes.</td>
+      <td align="center">Python</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Pablitus666/Sleep---Alarm">Sleep---Alarm</a></td>
+      <td align="center">Herramienta de alarma y temporizador.</td>
+      <td align="center">C# / .NET</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Pablitus666/Info-RAM">Info-RAM</a></td>
+      <td align="center">Información del uso de memoria RAM.</td>
+      <td align="center">C# / .NET</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Pablitus666/ClearCacheIcons">ClearCacheIcons</a></td>
+      <td align="center">Utilidad para limpiar la caché de iconos.</td>
+      <td align="center">C#</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Pablitus666/Shutdown-Utility-for-Windows">Shutdown-Utility-for-Windows</a></td>
+      <td align="center">Utilidad para administrar el apagado de Windows.</td>
+      <td align="center">C# / WinForms</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Pablitus666/Camara-Gesell-Web">Camara-Gesell-Web</a></td>
+      <td align="center">Proyecto web de Cámara Gesell.</td>
+      <td align="center">JavaScript / PWA</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 align="center">💻 Tecnologías | Technologies</h2>
 
