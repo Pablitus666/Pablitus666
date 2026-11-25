@@ -140,7 +140,7 @@ Estos son algunos de mis proyectos de desarrollo de software y herramientas digi
   <a href="https://wa.me/59175123893">
     <img src="https://img.shields.io/badge/WhatsApp-+591%2075123893-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="mailto:pablitus666@gmail.com">
+  <a href="mailto:pharmakoz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-pablitus666%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
