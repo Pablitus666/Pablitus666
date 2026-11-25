@@ -1,42 +1,48 @@
-
-<!-- BANNER -->
-<p align="center">
+ <p align="center">
   <img src="https://raw.githubusercontent.com/Pablitus666/Pablitus666/main/assets/Fondo.png" width="100%" alt="Pablitus Software & Web">
 </p>
 
-<h1 align="left">¡Hola! Soy Pablitus 👋</h1>
+<h1 align="center">¡Hola! Soy Pablitus 👋</h1>
 
-<h3 align="left">PABLITUS SOFTWARE & WEB</h3>
+<h3 align="center">PABLITUS SOFTWARE & WEB</h3>
 
-<p align="left">
+<p align="center">
   Desarrollo de Software · Desarrollo Web · Automatización · Inteligencia Artificial
 </p>
 
-<!-- ESLOGAN Y BOTONES EN UNA SOLA FILA -->
-<div align="left">
+<p align="center">
   <strong>Ideas into Digital Solutions.</strong>
-  <br><br>
-  <a href="https://github.com/Pablitus666">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>&nbsp;
-  <a href="https://wa.me/59175123893">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>&nbsp;
-  <a href="mailto:pablitus666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Pablitus666">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/59175123893">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:pablitus666@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<!-- AVATAR -->
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Pablitus666/Pablitus666/main/assets/Pablitux.png" width="150" alt="Pablitus">
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí | About Me
+<h2 align="center">👨‍💻 Sobre mí | About Me</h2>
 
 <div align="justify">
 
@@ -50,19 +56,19 @@ I'm passionate about building digital tools that solve real-world problems, simp
 
 </div>
 
-## 🚀 Servicios | Services
+<h2 align="center">🚀 Servicios | Services</h2>
 
 | Servicio | Descripción |
-|---|---|
+|:---|:---|
 | 💻 Desarrollo de software | Aplicaciones y herramientas personalizadas. |
 | 🌐 Desarrollo web | Sitios web modernos y aplicaciones web. |
 | ⚙️ Automatización | Herramientas para optimizar tareas y procesos. |
 | 🤖 Soluciones tecnológicas | Integración de tecnologías y nuevas herramientas digitales. |
 
-## 🛠️ Proyectos | Projects
+<h2 align="center">🛠️ Proyectos | Projects</h2>
 
 | Proyecto | Descripción | Tecnología |
-|---|---|---|
+|:---|:---|:---|
 | [Audio-Converter](https://github.com/Pablitus666/Audio-Converter) | Conversión de archivos de audio. | C# / .NET |
 | [Image_Converter](https://github.com/Pablitus666/Image_Converter) | Conversión de imágenes. | Python |
 | [Sleep---Alarm](https://github.com/Pablitus666/Sleep---Alarm) | Herramienta de alarma y temporizador. | C# / .NET |
@@ -71,22 +77,28 @@ I'm passionate about building digital tools that solve real-world problems, simp
 | [Shutdown-Utility-for-Windows](https://github.com/Pablitus666/Shutdown-Utility-for-Windows) | Utilidad para administrar el apagado de Windows. | C# / WinForms |
 | [Camara-Gesell-Web](https://github.com/Pablitus666/Camara-Gesell-Web) | Proyecto web de Cámara Gesell. | JavaScript / PWA |
 
-## 💻 Tecnologías | Technologies
+<h2 align="center">💻 Tecnologías | Technologies</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,html,css,js,react,nodejs,git,github,vscode,linux,windows" alt="Tecnologías">
 </p>
 
-## 📊 Estadísticas de GitHub | GitHub Stats
+<h2 align="center">📊 Estadísticas de GitHub | GitHub Stats</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pablitus666&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablitus666&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Lenguajes más utilizados">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Pablitus666&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estadísticas de GitHub">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablitus666&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Lenguajes más utilizados">
+    </td>
+  </tr>
+</table>
 
-## 🌎 Encuéntrame | Find Me
+<h2 align="center">🌎 Encuéntrame | Find Me</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
@@ -101,7 +113,7 @@ I'm passionate about building digital tools that solve real-world problems, simp
   </a>
 </p>
 
-## 📩 Contacto | Contact
+<h2 align="center">📩 Contacto | Contact</h2>
 
 <div align="justify">
 
@@ -111,23 +123,28 @@ Do you have an idea, need a project developed, or are you looking for a technolo
 
 </div>
 
-<!-- BOTONES DE CONTACTO EN UNA SOLA FILA -->
-<div align="left">
-  <a href="https://wa.me/59175123893">
-    <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contactar por WhatsApp">
-  </a>&nbsp;
-  <a href="mailto:pablitus666@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Enviar%20correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo">
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://wa.me/59175123893">
+        <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contactar por WhatsApp">
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:pablitus666@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-Enviar%20correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
+<p align="center">
   📍 Tarija, Bolivia
 </p>
 
 ---
 
-<p align="left">
+<p align="center">
   <strong>PABLITUS SOFTWARE & WEB</strong><br>
   <em>Ideas into Digital Solutions.</em>
 </p>
